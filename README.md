@@ -4,10 +4,10 @@
 # Wifighter
 
 __Wifighter is an under developing experimental Linux tool for penetration test on domestic WiFi networks.__  
-this tool combines social engineering and Airodump-ng suite to automatically interrupt WiFi connection and simulate conditions where can lead the network administrator person falsly believe the WiFi network is corrupted and needs a reset.
-once the administrator desperately committing factory reset in wireless modem setting in order to fix the connection problem,this tool monitors and detects it and notifies the Pen-tester to connect to now not secured modem to set a hidden hotspot abusing guest hotspot feature. 
+This tool combines Social Engineering and Airodump-ng suite to automatically interrupt WiFi connection and simulate conditions where can lead the network administrator subjected to attack, falsely believe the WiFi network is corrupted and needs a reset.
+once the administrator desperately committing factory reset in wireless modem setting in order to fix the connection problem,this tool monitors and detects it and immediately notifies the Pen-tester to connect to no longer secured modem via open preset WiFi to set a hidden hotspot abusing Guest Hotspot feature available in most of commericial Wireless modems. 
 __Wifighter attempts automated installation and setting up of Aircrack-ng suite packages in Linux systems__  
-__So becuase of this, it needs to be run as root.__  
+__So because of this, It needs to be run as root.__  
 ## Build  
 ```sh
 chmod +x wifighter.py
