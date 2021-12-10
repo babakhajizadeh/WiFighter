@@ -10,11 +10,11 @@ __Wifighter attempts automated installation and setting up of Aircrack-ng suite 
 __So because of this, It needs to be run as root.__  
 ## Build  
 ```sh
-chmod +x wifighter.py
+chmod +x wifipentester.py
 ```
 ### Usage
 ```sh
-sudo ./wifighter.py
+sudo ./wifipentester.py
 ```
 #### Contact
 Created by [Babak Hajizadeh](https://www.linkedin.com/in/babakhajizadeh) (LinkedIn) - Feel free to contact me!  
